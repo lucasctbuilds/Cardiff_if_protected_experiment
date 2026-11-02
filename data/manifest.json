@@ -1,0 +1,668 @@
+{
+ "_made_by": "Lucas Collyer-Todd, 2026. All rights reserved.",
+ "_sig": "44912da3dcfb40e77fe7a0df2026d71127fe3927a424a5cd16aae5c3bc9faed3",
+ "crs": "local metres from site (E 318374, N 175286), z metres OD",
+ "tile_size": 2000.0,
+ "tiles": [
+  {
+   "file": "buildings--6_2.b64.txt",
+   "tx": -6,
+   "ty": 2,
+   "origin": [
+    -12000.0,
+    4000.0
+   ],
+   "n": 339,
+   "verts": 1420,
+   "bundle": 2
+  },
+  {
+   "file": "buildings--6_3.b64.txt",
+   "tx": -6,
+   "ty": 3,
+   "origin": [
+    -12000.0,
+    6000.0
+   ],
+   "n": 346,
+   "verts": 1449,
+   "bundle": 2
+  },
+  {
+   "file": "buildings--5_1.b64.txt",
+   "tx": -5,
+   "ty": 1,
+   "origin": [
+    -10000.0,
+    2000.0
+   ],
+   "n": 25,
+   "verts": 109,
+   "bundle": 2
+  },
+  {
+   "file": "buildings--5_2.b64.txt",
+   "tx": -5,
+   "ty": 2,
+   "origin": [
+    -10000.0,
+    4000.0
+   ],
+   "n": 523,
+   "verts": 2232,
+   "bundle": 2
+  },
+  {
+   "file": "buildings--5_3.b64.txt",
+   "tx": -5,
+   "ty": 3,
+   "origin": [
+    -10000.0,
+    6000.0
+   ],
+   "n": 662,
+   "verts": 2790,
+   "bundle": 2
+  },
+  {
+   "file": "buildings--5_4.b64.txt",
+   "tx": -5,
+   "ty": 4,
+   "origin": [
+    -10000.0,
+    8000.0
+   ],
+   "n": 1,
+   "verts": 7,
+   "bundle": 2
+  },
+  {
+   "file": "buildings--4_-1.b64.txt",
+   "tx": -4,
+   "ty": -1,
+   "origin": [
+    -8000.0,
+    -2000.0
+   ],
+   "n": 210,
+   "verts": 879,
+   "bundle": 1
+  },
+  {
+   "file": "buildings--4_0.b64.txt",
+   "tx": -4,
+   "ty": 0,
+   "origin": [
+    -8000.0,
+    0.0
+   ],
+   "n": 999,
+   "verts": 4278,
+   "bundle": 1
+  },
+  {
+   "file": "buildings--4_1.b64.txt",
+   "tx": -4,
+   "ty": 1,
+   "origin": [
+    -8000.0,
+    2000.0
+   ],
+   "n": 172,
+   "verts": 736,
+   "bundle": 2
+  },
+  {
+   "file": "buildings--4_2.b64.txt",
+   "tx": -4,
+   "ty": 2,
+   "origin": [
+    -8000.0,
+    4000.0
+   ],
+   "n": 604,
+   "verts": 2681,
+   "bundle": 2
+  },
+  {
+   "file": "buildings--4_3.b64.txt",
+   "tx": -4,
+   "ty": 3,
+   "origin": [
+    -8000.0,
+    6000.0
+   ],
+   "n": 384,
+   "verts": 1642,
+   "bundle": 2
+  },
+  {
+   "file": "buildings--4_4.b64.txt",
+   "tx": -4,
+   "ty": 4,
+   "origin": [
+    -8000.0,
+    8000.0
+   ],
+   "n": 182,
+   "verts": 775,
+   "bundle": 2
+  },
+  {
+   "file": "buildings--3_-1.b64.txt",
+   "tx": -3,
+   "ty": -1,
+   "origin": [
+    -6000.0,
+    -2000.0
+   ],
+   "n": 385,
+   "verts": 1637,
+   "bundle": 0
+  },
+  {
+   "file": "buildings--3_0.b64.txt",
+   "tx": -3,
+   "ty": 0,
+   "origin": [
+    -6000.0,
+    0.0
+   ],
+   "n": 3105,
+   "verts": 12989,
+   "bundle": 0
+  },
+  {
+   "file": "buildings--3_1.b64.txt",
+   "tx": -3,
+   "ty": 1,
+   "origin": [
+    -6000.0,
+    2000.0
+   ],
+   "n": 2215,
+   "verts": 9474,
+   "bundle": 1
+  },
+  {
+   "file": "buildings--3_2.b64.txt",
+   "tx": -3,
+   "ty": 2,
+   "origin": [
+    -6000.0,
+    4000.0
+   ],
+   "n": 1858,
+   "verts": 8098,
+   "bundle": 1
+  },
+  {
+   "file": "buildings--3_3.b64.txt",
+   "tx": -3,
+   "ty": 3,
+   "origin": [
+    -6000.0,
+    6000.0
+   ],
+   "n": 711,
+   "verts": 3084,
+   "bundle": 2
+  },
+  {
+   "file": "buildings--3_4.b64.txt",
+   "tx": -3,
+   "ty": 4,
+   "origin": [
+    -6000.0,
+    8000.0
+   ],
+   "n": 17,
+   "verts": 74,
+   "bundle": 2
+  },
+  {
+   "file": "buildings--2_-1.b64.txt",
+   "tx": -2,
+   "ty": -1,
+   "origin": [
+    -4000.0,
+    -2000.0
+   ],
+   "n": 17,
+   "verts": 89,
+   "bundle": 0
+  },
+  {
+   "file": "buildings--2_0.b64.txt",
+   "tx": -2,
+   "ty": 0,
+   "origin": [
+    -4000.0,
+    0.0
+   ],
+   "n": 1815,
+   "verts": 8099,
+   "bundle": 0
+  },
+  {
+   "file": "buildings--2_1.b64.txt",
+   "tx": -2,
+   "ty": 1,
+   "origin": [
+    -4000.0,
+    2000.0
+   ],
+   "n": 2488,
+   "verts": 11140,
+   "bundle": 0
+  },
+  {
+   "file": "buildings--2_2.b64.txt",
+   "tx": -2,
+   "ty": 2,
+   "origin": [
+    -4000.0,
+    4000.0
+   ],
+   "n": 3561,
+   "verts": 15520,
+   "bundle": 1
+  },
+  {
+   "file": "buildings--2_3.b64.txt",
+   "tx": -2,
+   "ty": 3,
+   "origin": [
+    -4000.0,
+    6000.0
+   ],
+   "n": 1808,
+   "verts": 7735,
+   "bundle": 2
+  },
+  {
+   "file": "buildings--2_4.b64.txt",
+   "tx": -2,
+   "ty": 4,
+   "origin": [
+    -4000.0,
+    8000.0
+   ],
+   "n": 60,
+   "verts": 269,
+   "bundle": 2
+  },
+  {
+   "file": "buildings--1_-2.b64.txt",
+   "tx": -1,
+   "ty": -2,
+   "origin": [
+    -2000.0,
+    -4000.0
+   ],
+   "n": 61,
+   "verts": 352,
+   "bundle": 0
+  },
+  {
+   "file": "buildings--1_-1.b64.txt",
+   "tx": -1,
+   "ty": -1,
+   "origin": [
+    -2000.0,
+    -2000.0
+   ],
+   "n": 1169,
+   "verts": 5482,
+   "bundle": 0
+  },
+  {
+   "file": "buildings--1_0.b64.txt",
+   "tx": -1,
+   "ty": 0,
+   "origin": [
+    -2000.0,
+    0.0
+   ],
+   "n": 1606,
+   "verts": 8750,
+   "bundle": 0
+  },
+  {
+   "file": "buildings--1_1.b64.txt",
+   "tx": -1,
+   "ty": 1,
+   "origin": [
+    -2000.0,
+    2000.0
+   ],
+   "n": 1592,
+   "verts": 7545,
+   "bundle": 0
+  },
+  {
+   "file": "buildings--1_2.b64.txt",
+   "tx": -1,
+   "ty": 2,
+   "origin": [
+    -2000.0,
+    4000.0
+   ],
+   "n": 3383,
+   "verts": 14701,
+   "bundle": 1
+  },
+  {
+   "file": "buildings--1_3.b64.txt",
+   "tx": -1,
+   "ty": 3,
+   "origin": [
+    -2000.0,
+    6000.0
+   ],
+   "n": 3060,
+   "verts": 13378,
+   "bundle": 2
+  },
+  {
+   "file": "buildings--1_4.b64.txt",
+   "tx": -1,
+   "ty": 4,
+   "origin": [
+    -2000.0,
+    8000.0
+   ],
+   "n": 698,
+   "verts": 3032,
+   "bundle": 2
+  },
+  {
+   "file": "buildings-0_-2.b64.txt",
+   "tx": 0,
+   "ty": -2,
+   "origin": [
+    0.0,
+    -4000.0
+   ],
+   "n": 9,
+   "verts": 43,
+   "bundle": 0
+  },
+  {
+   "file": "buildings-0_-1.b64.txt",
+   "tx": 0,
+   "ty": -1,
+   "origin": [
+    0.0,
+    -2000.0
+   ],
+   "n": 484,
+   "verts": 2779,
+   "bundle": 0
+  },
+  {
+   "file": "buildings-0_0.b64.txt",
+   "tx": 0,
+   "ty": 0,
+   "origin": [
+    0.0,
+    0.0
+   ],
+   "n": 1358,
+   "verts": 7801,
+   "bundle": 0
+  },
+  {
+   "file": "buildings-0_1.b64.txt",
+   "tx": 0,
+   "ty": 1,
+   "origin": [
+    0.0,
+    2000.0
+   ],
+   "n": 3036,
+   "verts": 13986,
+   "bundle": 0
+  },
+  {
+   "file": "buildings-0_2.b64.txt",
+   "tx": 0,
+   "ty": 2,
+   "origin": [
+    0.0,
+    4000.0
+   ],
+   "n": 2633,
+   "verts": 11534,
+   "bundle": 1
+  },
+  {
+   "file": "buildings-0_3.b64.txt",
+   "tx": 0,
+   "ty": 3,
+   "origin": [
+    0.0,
+    6000.0
+   ],
+   "n": 1779,
+   "verts": 7668,
+   "bundle": 2
+  },
+  {
+   "file": "buildings-0_4.b64.txt",
+   "tx": 0,
+   "ty": 4,
+   "origin": [
+    0.0,
+    8000.0
+   ],
+   "n": 382,
+   "verts": 1669,
+   "bundle": 2
+  },
+  {
+   "file": "buildings-1_-6.b64.txt",
+   "tx": 1,
+   "ty": -6,
+   "origin": [
+    2000.0,
+    -12000.0
+   ],
+   "n": 23,
+   "verts": 96,
+   "bundle": 2
+  },
+  {
+   "file": "buildings-1_-1.b64.txt",
+   "tx": 1,
+   "ty": -1,
+   "origin": [
+    2000.0,
+    -2000.0
+   ],
+   "n": 77,
+   "verts": 328,
+   "bundle": 0
+  },
+  {
+   "file": "buildings-1_0.b64.txt",
+   "tx": 1,
+   "ty": 0,
+   "origin": [
+    2000.0,
+    0.0
+   ],
+   "n": 698,
+   "verts": 3155,
+   "bundle": 0
+  },
+  {
+   "file": "buildings-1_1.b64.txt",
+   "tx": 1,
+   "ty": 1,
+   "origin": [
+    2000.0,
+    2000.0
+   ],
+   "n": 1558,
+   "verts": 6850,
+   "bundle": 0
+  },
+  {
+   "file": "buildings-1_2.b64.txt",
+   "tx": 1,
+   "ty": 2,
+   "origin": [
+    2000.0,
+    4000.0
+   ],
+   "n": 1843,
+   "verts": 7959,
+   "bundle": 1
+  },
+  {
+   "file": "buildings-1_3.b64.txt",
+   "tx": 1,
+   "ty": 3,
+   "origin": [
+    2000.0,
+    6000.0
+   ],
+   "n": 2238,
+   "verts": 9656,
+   "bundle": 2
+  },
+  {
+   "file": "buildings-1_4.b64.txt",
+   "tx": 1,
+   "ty": 4,
+   "origin": [
+    2000.0,
+    8000.0
+   ],
+   "n": 29,
+   "verts": 118,
+   "bundle": 2
+  },
+  {
+   "file": "buildings-2_1.b64.txt",
+   "tx": 2,
+   "ty": 1,
+   "origin": [
+    4000.0,
+    2000.0
+   ],
+   "n": 221,
+   "verts": 1021,
+   "bundle": 1
+  },
+  {
+   "file": "buildings-2_2.b64.txt",
+   "tx": 2,
+   "ty": 2,
+   "origin": [
+    4000.0,
+    4000.0
+   ],
+   "n": 2432,
+   "verts": 10339,
+   "bundle": 2
+  },
+  {
+   "file": "buildings-2_3.b64.txt",
+   "tx": 2,
+   "ty": 3,
+   "origin": [
+    4000.0,
+    6000.0
+   ],
+   "n": 1460,
+   "verts": 6352,
+   "bundle": 2
+  },
+  {
+   "file": "buildings-2_4.b64.txt",
+   "tx": 2,
+   "ty": 4,
+   "origin": [
+    4000.0,
+    8000.0
+   ],
+   "n": 14,
+   "verts": 58,
+   "bundle": 2
+  },
+  {
+   "file": "buildings-3_1.b64.txt",
+   "tx": 3,
+   "ty": 1,
+   "origin": [
+    6000.0,
+    2000.0
+   ],
+   "n": 4,
+   "verts": 16,
+   "bundle": 2
+  },
+  {
+   "file": "buildings-3_2.b64.txt",
+   "tx": 3,
+   "ty": 2,
+   "origin": [
+    6000.0,
+    4000.0
+   ],
+   "n": 209,
+   "verts": 907,
+   "bundle": 2
+  },
+  {
+   "file": "buildings-3_3.b64.txt",
+   "tx": 3,
+   "ty": 3,
+   "origin": [
+    6000.0,
+    6000.0
+   ],
+   "n": 214,
+   "verts": 962,
+   "bundle": 2
+  }
+ ],
+ "site": [
+  318374.0,
+  175286.0
+ ],
+ "terrain": {
+  "file": "terrain.b64.txt",
+  "cols": 800,
+  "rows": 880,
+  "step": 25.0,
+  "origin_nw": [
+   -12000.0,
+   10000.0
+  ],
+  "min": -5.46999979019165,
+  "max": 305.0364685058594
+ },
+ "totals": {
+  "buildings": 54757,
+  "vertices": 243743,
+  "building_bytes": 1522800
+ },
+ "textures": {
+  "protected": "tex-protected.png",
+  "today": "tex-today.png",
+  "bounds_local": [
+   -12000.0,
+   -11975.0,
+   7975.0,
+   10000.0
+  ]
+ },
+ "bundles": [
+  "tiles-0.json",
+  "tiles-1.json",
+  "tiles-2.json"
+ ]
+}

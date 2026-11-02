@@ -1,0 +1,1183 @@
+{
+ "G7-16": {
+  "summary": "T-plan of the 1868 church: east-west gabled range, south range with canted end, square tower and broach spire at the west junction. Plan from the 1992 re-erection (Cadw 87910; replica outline); eaves c.6.5 m, ridge c.9 m, spire tip c.16.5 m estimated from a mid-20th-century photo of the original site. Painted dark green in 1947 (Coflein). Placement on the 1947 footprint inferred",
+  "sources": [
+   "Cadw 87910",
+   "Coflein 9321",
+   "research_churches.md (photo estimates)"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "side": "N",
+    "depth": 7.4,
+    "eave": 6.5,
+    "roof": "pitched",
+    "ridge": "short",
+    "rise": 2.6
+   },
+   {
+    "type": "body",
+    "side": "S",
+    "depth": 12.6,
+    "from": 0.19,
+    "to": 0.81,
+    "eave": 6.0,
+    "roof": "hipped",
+    "rise": 2.6
+   },
+   {
+    "type": "tower",
+    "at": {
+     "side": "W",
+     "toward": "N",
+     "offset": 6.0,
+     "inset": 3.2
+    },
+    "w": 3.2,
+    "d": 3.4,
+    "h": 9.5,
+    "cap": "spire",
+    "cap_h": 7.0
+   }
+  ]
+ },
+ "H7-12": {
+  "summary": "Two-storey hall (institute below, church for 450 above) of about 7 buttressed bays plus a gabled end bay, ballast stone with brick facings under a red tile roof, with a belfry and spirelet on the north end of the ridge (Western Mail 1890; Coflein 302127). Eaves c.9 m, ridge c.15.5 m, belfry tip c.19.5 m estimated from a British Transport Docks Board photo",
+  "sources": [
+   "Coflein 302127",
+   "HER 08189s",
+   "Western Mail 1890",
+   "research_churches.md (photo estimates)"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "eave": 9.0,
+    "roof": "pitched",
+    "rise": 6.5
+   },
+   {
+    "type": "tower",
+    "at": {
+     "side": "N",
+     "along": 0.5,
+     "inset": 3.0
+    },
+    "w": 2.2,
+    "h": 15.0,
+    "cap": "spire",
+    "cap_h": 4.5
+   }
+  ]
+ },
+ "F6-12": {
+  "summary": "1856 Gothic gable-entry church: tall nave under a steep slate roof, square corner tower with octagonal belfry and short spire. Eaves c.8 m, ridge c.15 m, spire tip c.22 m estimated from IWM photo D 15315 (1943) and the 1950 RAF oblique (Coflein archive 6363456). Front assumed to be the north gable facing the square (inferred)",
+  "sources": [
+   "Coflein 9384",
+   "Rubicon 'A Town of Many' 2019, 4.2.8-4.2.10",
+   "IWM D 15315",
+   "Coflein archive 6363456"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "eave": 8.0,
+    "roof": "pitched",
+    "rise": 7.0
+   },
+   {
+    "type": "tower",
+    "at": {
+     "side": "N",
+     "toward": "W",
+     "offset": 0,
+     "inset": 0
+    },
+    "w": 4.2,
+    "h": 13.0,
+    "cap": "spire",
+    "cap_h": 9.0
+   }
+  ]
+ },
+ "F6-07": {
+  "summary": "Former chapel, two storeys under a pitched slate roof (institute below, chapel above: unverified). Eaves c.7.5 m, ridge c.11.5 m estimated from the 1950 RAF oblique, where the building is identified by position only. Low confidence",
+  "sources": [
+   "Coflein 9322",
+   "Rubicon 'A Town of Many' 2019, 4.2.10",
+   "Coflein archive 6363456"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "eave": 7.5,
+    "roof": "pitched",
+    "rise": 4.0
+   }
+  ]
+ },
+ "E5-04": {
+  "summary": "1946/47 mosque by Osborne V. Webb: single-storey white-rendered screen wall to Peel Street (the bombed houses' front, kept from 1943), behind it a two-storey rendered brick prayer hall with a flat concrete roof and square corner turrets with small domes. Screen c.3.8 m, hall parapet c.7 m, turrets c.8.5 m estimated from the 1964 COI photo (Coflein archive 6210732). Street side taken as the south-east long side (north side of Peel Street); the site itself is a possible identification",
+  "sources": [
+   "Coflein 11800",
+   "Coflein archive 6210732",
+   "RCAHMW 2021",
+   "IWM D 15313"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "side": "SE",
+    "depth": 0.6,
+    "from": 0.2,
+    "to": 0.8,
+    "eave": 3.8,
+    "roof": "flat",
+    "parapet": 0.5
+   },
+   {
+    "type": "body",
+    "side": "SE",
+    "depth": 8.0,
+    "inset": 1.8,
+    "from": 0.28,
+    "to": 0.72,
+    "eave": 6.6,
+    "roof": "flat",
+    "parapet": 0.4
+   },
+   {
+    "type": "tower",
+    "at": {
+     "side": "SE",
+     "along": 0.3,
+     "inset": 1.8
+    },
+    "w": 2.0,
+    "h": 8.0,
+    "cap": "dome",
+    "cap_h": 1.0
+   },
+   {
+    "type": "tower",
+    "at": {
+     "side": "SE",
+     "along": 0.7,
+     "inset": 1.8
+    },
+    "w": 2.0,
+    "h": 8.0,
+    "cap": "dome",
+    "cap_h": 1.0
+   }
+  ]
+ },
+ "A4-10": {
+  "summary": "Roofless ruin of Sir William Herbert's house (1582): a front about 17 m long with a three-storey gabled central block (c.11.7 m to apex), a three-storey canted bay (c.9 m), a tall end pier (c.8 m) and a range surviving to one storey (c.4.8 m). Heights estimated from an Ordnance Survey photo with a standing figure for scale (Coflein 18965). Which side the front faced is not established; placed on the north side",
+  "sources": [
+   "Coflein 18965",
+   "Coflein archive 6505498 (OS photo)",
+   "RCAHMW Glamorgan Inventory IV(1) fig. 76 (not seen)"
+  ],
+  "parts": [
+   {
+    "type": "ruin",
+    "side": "N",
+    "depth": 0.9,
+    "from": 0.32,
+    "to": 0.68,
+    "h": 4.8
+   },
+   {
+    "type": "ruin",
+    "at": {
+     "side": "N",
+     "along": 0.34,
+     "inset": 0
+    },
+    "w": 1.6,
+    "d": 1.4,
+    "h": 8.0
+   },
+   {
+    "type": "ruin",
+    "at": {
+     "side": "N",
+     "along": 0.44,
+     "inset": 0
+    },
+    "w": 3.4,
+    "d": 2.2,
+    "h": 9.0
+   },
+   {
+    "type": "body",
+    "at": {
+     "side": "N",
+     "along": 0.52,
+     "inset": 0
+    },
+    "w": 3.7,
+    "d": 3.0,
+    "eave": 9.5,
+    "roof": "pitched",
+    "ridge": "short",
+    "rise": 2.2
+   }
+  ]
+ },
+ "A5-18": {
+  "summary": "Super-cinema of 1921 by Phillips & Wride: symmetrical flat-parapeted street block to Queen Street (c.4-5 storeys, c.16 m, with end bays and a full-width canopy) and a large auditorium behind for 3,158 seats. Street block estimated from photos (Cinema Treasures; 1965 Cardiffians view); auditorium height and roof form not found, modelled low-pitched at an inferred 18 m",
+  "sources": [
+   "Coflein 416700",
+   "Cinema Treasures 17594",
+   "Britain from Above WPW061964",
+   "research_centre.md (photo estimates)"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "side": "S",
+    "depth": 16,
+    "from": 0.3,
+    "to": 0.62,
+    "eave": 16,
+    "roof": "flat",
+    "parapet": 0.8
+   },
+   {
+    "type": "body",
+    "side": "S",
+    "depth": 38,
+    "inset": 16,
+    "from": 0.22,
+    "to": 0.7,
+    "eave": 18,
+    "roof": "pitched",
+    "rise": 3
+   }
+  ]
+ },
+ "A5-20": {
+  "summary": "Cory Memorial Temperance Hall (1896): two-storey hall, rusticated Bath stone below and an upper storey of oval windows between pilasters, hipped slate roof with a central pediment and ridge ventilator. Eaves c.11 m, ridge c.15 m and a footprint of c.23 x 13 m estimated from a Mary Traynor drawing (Glamorgan Archives D1093/2/4); placed on the east side of the 1947 footprint, facing Queen Street station (inferred)",
+  "sources": [
+   "Glamorgan Archives D1093/2/4",
+   "Glamorgan Archives blog 2017",
+   "dicmortimer 2019"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "at": {
+     "side": "E",
+     "along": 0.5,
+     "inset": 0
+    },
+    "w": 23,
+    "d": 13,
+    "eave": 11,
+    "roof": "hipped",
+    "rise": 4
+   }
+  ]
+ },
+ "C3-09": {
+  "summary": "Arts & Crafts church (Sedding and Wilson, completed by Arthur Grove 1904-07): long nave with north and south aisles and porches at both corners of the Wood Street front. No dimensions, heights or photographs found online: nave eaves 12 m and aisles 6 m are inferred from its seating (450 in the first phase, nearly doubled) and are the least certain heights in the model",
+  "sources": [
+   "Coflein 407414",
+   "Cadw 13981 (screen)",
+   "1907 newspaper reports",
+   "research_churches.md"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "rect": [
+     0,
+     1,
+     0.26,
+     0.74
+    ],
+    "eave": 12,
+    "roof": "pitched",
+    "rise": 7
+   },
+   {
+    "type": "body",
+    "rect": [
+     0.08,
+     0.92,
+     0,
+     0.26
+    ],
+    "eave": 6,
+    "roof": "pitched",
+    "rise": 1.5
+   },
+   {
+    "type": "body",
+    "rect": [
+     0.08,
+     0.92,
+     0.74,
+     1
+    ],
+    "eave": 6,
+    "roof": "pitched",
+    "rise": 1.5
+   },
+   {
+    "type": "body",
+    "at": {
+     "side": "N",
+     "along": 0.15,
+     "inset": 0
+    },
+    "w": 4,
+    "d": 4,
+    "eave": 4,
+    "roof": "pitched",
+    "rise": 1.5
+   },
+   {
+    "type": "body",
+    "at": {
+     "side": "N",
+     "along": 0.85,
+     "inset": 0
+    },
+    "w": 4,
+    "d": 4,
+    "eave": 4,
+    "roof": "pitched",
+    "rise": 1.5
+   }
+  ]
+ },
+ "C6-01": {
+  "summary": "Two-storey mid-terrace pub with a tiled ground floor and four first-floor windows between brick pilasters, slate roof with gable ends and the ridge along Adam Street, front to the north-north-west. Frontage c.9 m, eaves c.7 m, ridge c.9.5 m estimated from photos of the building re-erected at St Fagans; depth of the main range inferred",
+  "sources": [
+   "Museum Wales blogs 2150, 2519",
+   "Veall drawings 1914 (via Museum Wales)",
+   "research_batch2_civic.md (photo estimates)"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "at": {
+     "side": "N",
+     "along": 0.5,
+     "inset": 0
+    },
+    "w": 9.0,
+    "d": 6.5,
+    "eave": 7.0,
+    "roof": "pitched",
+    "rise": 2.5
+   }
+  ]
+ },
+ "H5-37": {
+  "summary": "Georgian hotel of c.1819 at the canal sea lock: two-storey, three-bay rendered block with a hipped slate roof and a central round-arched door, front facing west across the canal. About 11.5 x 7.5 m with eaves c.5.3 m, estimated from photos of c.1891 (Coflein 91435); roof height inferred",
+  "sources": [
+   "Coflein 91435",
+   "research_batch2_civic.md (photo estimates)"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "at": {
+     "side": "W",
+     "along": 0.5,
+     "inset": 0
+    },
+    "w": 7.5,
+    "d": 11.5,
+    "eave": 5.3,
+    "roof": "hipped",
+    "rise": 2.5
+   }
+  ]
+ },
+ "H5-10": {
+  "summary": "1912 stone chapel by James and Morgan: gabled front between two corner turrets, ridge running back from the street. Ridge c.8.7 m, cross c.9.7 m, turrets c.8.2 m, side-bay parapets c.4.8 m, scaled from a 1970s Museum Wales photo to the traced 7.4 m width. Which end faced the street is inferred (north-west)",
+  "sources": [
+   "Coflein 14303",
+   "Museum Wales photo (1970s)",
+   "research_batch2_chapels.md (photo estimates)"
+  ],
+  "others": {
+   "eave": 4.8,
+   "roof": "flat"
+  },
+  "parts": [
+   {
+    "type": "body",
+    "eave": 6.0,
+    "roof": "pitched",
+    "rise": 2.7
+   },
+   {
+    "type": "tower",
+    "at": {
+     "side": "NW",
+     "along": 0.1,
+     "inset": 0
+    },
+    "w": 1.3,
+    "h": 8.2,
+    "cap": "pyramid",
+    "cap_h": 1.0
+   },
+   {
+    "type": "tower",
+    "at": {
+     "side": "NW",
+     "along": 0.9,
+     "inset": 0
+    },
+    "w": 1.3,
+    "h": 8.2,
+    "cap": "pyramid",
+    "cap_h": 1.0
+   }
+  ]
+ },
+ "H7-11": {
+  "summary": "Three-storey rendered corner pub with white quoins and a name band, entrance at the north-east corner, low hipped roof with large chimneys (Coflein 18155). Eaves c.11.5 m estimated from a 1979 photo with a passer-by for scale; ridge c.2 m above the eaves inferred from Coflein's 'low hipped roofs'. The traced footprint may include 2 Bute Crescent, demolished with it in 1987",
+  "sources": [
+   "Coflein 18155",
+   "Coflein 18165",
+   "Cardiff Bay Heritage photo (1979)",
+   "research_batch3a.md (photo estimates)"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "eave": 11.5,
+    "roof": "hipped",
+    "rise": 2.0
+   }
+  ]
+ },
+ "H6-08": {
+  "summary": "Gable-entry brick chapel of 1858-59 (H. J. Paull), refronted 1910: a three-bay pedimented front with a tall traceried centre window and a barley-sugar porch, painted black and white. Eaves c.9.5 m and apex c.14 m estimated from a 1979 photo scaled to the 13 m front. Front taken as the east gable facing into the square (inferred, medium confidence)",
+  "sources": [
+   "Coflein 14302",
+   "Newman, Buildings of Wales: Glamorgan p.272",
+   "HCE archive photo (1979)",
+   "research_batch3a.md (photo estimates)"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "eave": 9.5,
+    "roof": "pitched",
+    "rise": 4.5
+   }
+  ]
+ },
+ "H5-29": {
+  "summary": "Two-storey, three-bay rendered pub of c.1840-58 with a shallow slate roof and chimneys on both gables, front to the north, with a single-storey outbuilding on the east. Front c.9.5 m, eaves c.6 m and ridge c.7.3 m estimated from a Coflein photo using a Land Rover for scale; depth and the outbuilding's extent inferred from the traced footprint",
+  "sources": [
+   "Coflein 91432",
+   "Coflein archive 6509507",
+   "research_batch3a.md (photo estimates)"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "at": "NW",
+    "w": 9.5,
+    "d": 8.0,
+    "eave": 6.0,
+    "roof": "pitched",
+    "rise": 1.3
+   },
+   {
+    "type": "body",
+    "at": "NE",
+    "w": 7.0,
+    "d": 8.0,
+    "eave": 2.8,
+    "roof": "pitched",
+    "rise": 0.6
+   }
+  ]
+ },
+ "H5-12": {
+  "summary": "1892 corner hotel by E. W. M. Corbett, two storeys and attics in red and yellow brick: a Clarence Road range and a seven-bay Hunter Street range meeting at a canted corner with an octagonal turret and spirelet. No photo found: eaves c.9 m inferred, turret cornice c.15 m and spire tip c.21 m estimated from a 1983 Mary Traynor sketch (low confidence). Range depths inferred",
+  "sources": [
+   "Coflein 302600",
+   "Glamorgan Archives D1093/1/2 p.17",
+   "Glamorgan Archives blog 2019",
+   "research_batch3a.md (sketch estimates)"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "side": "N",
+    "depth": 10,
+    "eave": 9.0,
+    "roof": "pitched",
+    "rise": 4.0
+   },
+   {
+    "type": "body",
+    "side": "E",
+    "depth": 10,
+    "eave": 9.0,
+    "roof": "pitched",
+    "rise": 4.0
+   },
+   {
+    "type": "tower",
+    "at": {
+     "side": "N",
+     "toward": "E",
+     "offset": 0,
+     "inset": 0
+    },
+    "w": 4.0,
+    "h": 15.0,
+    "cap": "spire",
+    "cap_h": 6.0
+   }
+  ]
+ },
+ "H6-11": {
+  "summary": "Bank and shipping offices of c.1890-91: two-storey parapeted ranges to the square and the side street (stone below, red brick above), three-storey coped gables either side of the corner, and a round corner turret with a dormered conical spire. Parapet c.9.5 m, gables c.14.5 m and spire tip c.17 m estimated from a 1982 Mary Traynor drawing (low confidence). Demolished 1982",
+  "sources": [
+   "Coflein 19373",
+   "Glamorgan Archives D1093/2/27",
+   "Glamorgan Archives blog 2018",
+   "research_batch3b.md (drawing estimates)"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "eave": 9.5,
+    "roof": "flat",
+    "parapet": 0.6
+   },
+   {
+    "type": "body",
+    "at": {
+     "side": "N",
+     "toward": "E",
+     "offset": 3,
+     "inset": 0
+    },
+    "w": 5,
+    "d": 4,
+    "eave": 11.5,
+    "roof": "pitched",
+    "rise": 3.0
+   },
+   {
+    "type": "body",
+    "at": {
+     "side": "E",
+     "toward": "N",
+     "offset": 3,
+     "inset": 0
+    },
+    "w": 4,
+    "d": 5,
+    "eave": 11.5,
+    "roof": "pitched",
+    "rise": 3.0
+   },
+   {
+    "type": "tower",
+    "at": {
+     "side": "N",
+     "toward": "E",
+     "offset": 0,
+     "inset": 0
+    },
+    "w": 2.8,
+    "h": 13.0,
+    "cap": "spire",
+    "cap_h": 4.0
+   }
+  ]
+ },
+ "C4-22": {
+  "summary": "Former 1858 temperance hall, a chapel from 1868 and enlarged 1896, seating up to 3,000: a big stuccoed box of two tiers of round-arched windows behind a cornice and parapet, with a raised pedimented attic over the middle of the long front. Cornice c.15 m and attic apex c.21.5 m estimated from a 1940s-60s photo with a standing figure for scale. Which long side was the main front is not confirmed; placed on the Westgate Street side (inferred)",
+  "sources": [
+   "Coflein 14291",
+   "Glamorgan Archives blog 2026",
+   "Wikipedia: Wood Street Congregational Church",
+   "research_batch3c.md (photo estimates)"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "eave": 15.0,
+    "roof": "pitched",
+    "rise": 2.5,
+    "parapet": 0.8
+   },
+   {
+    "type": "body",
+    "at": {
+     "side": "SW",
+     "along": 0.5,
+     "inset": 0
+    },
+    "w": 8,
+    "d": 3,
+    "eave": 18.5,
+    "roof": "pitched",
+    "ridge": "short",
+    "rise": 3.0
+   }
+  ]
+ },
+ "B5-30": {
+  "summary": "1895-96 rebuild by Jones, Richards & Budgen of the 1850 Wesleyan chapel: a tall Perpendicular hall of Pennant stone with Bath dressings under a steep crested roof, a great traceried west window between crocketed corner pinnacles, and a lower parapeted wing along Charles Street. A Labour Exchange by 1941. Eaves c.10 m, ridge c.15 m, pinnacles c.12 m and wing c.11 m estimated from a 1983 Mary Traynor drawing (not to true scale; could be up to 1.5x higher)",
+  "sources": [
+   "Coflein 31922",
+   "Glamorgan Archives D1093/2/29",
+   "The Churches of Charles Street (1991)",
+   "research_batch3c.md (drawing estimates)"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "side": "SE",
+    "depth": 13,
+    "eave": 10.0,
+    "roof": "pitched",
+    "rise": 5.0
+   },
+   {
+    "type": "body",
+    "at": {
+     "side": "W",
+     "toward": "NW",
+     "offset": 0,
+     "inset": 0
+    },
+    "w": 12,
+    "d": 5,
+    "eave": 11.0,
+    "roof": "flat",
+    "parapet": 0.6
+   },
+   {
+    "type": "tower",
+    "at": {
+     "side": "W",
+     "toward": "SE",
+     "offset": 0,
+     "inset": 0
+    },
+    "w": 1.0,
+    "h": 11.0,
+    "cap": "pyramid",
+    "cap_h": 1.5
+   },
+   {
+    "type": "tower",
+    "at": {
+     "side": "W",
+     "toward": "SE",
+     "offset": 12,
+     "inset": 0
+    },
+    "w": 1.0,
+    "h": 11.0,
+    "cap": "pyramid",
+    "cap_h": 1.5
+   }
+  ]
+ },
+ "B7-07": {
+  "summary": "1879 Gothic board school, enlarged 1897: a long single-storey stone range facing Adamsdown Square with gabled cross-wings to the street, a lantern on the central range and a three-storey square tower with a spirelet at the south-west end. Ridge c.8 m (a photo gives at least 7 m), cross-gable count from a 1903 photo; tower tip c.17 m is a rough relative estimate and its plan size is inferred",
+  "sources": [
+   "Coflein 31730",
+   "Roath Local History Society (1900 map, 1903 photo)",
+   "research_batch3d.md (photo estimates)"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "side": "NW",
+    "depth": 12,
+    "eave": 5.0,
+    "roof": "pitched",
+    "rise": 3.0
+   },
+   {
+    "type": "body",
+    "at": {
+     "side": "SE",
+     "along": 0.2,
+     "inset": 0
+    },
+    "w": 7,
+    "d": 9,
+    "eave": 5.0,
+    "roof": "pitched",
+    "rise": 3.0
+   },
+   {
+    "type": "body",
+    "at": {
+     "side": "SE",
+     "along": 0.35,
+     "inset": 0
+    },
+    "w": 7,
+    "d": 9,
+    "eave": 5.0,
+    "roof": "pitched",
+    "rise": 3.0
+   },
+   {
+    "type": "body",
+    "at": {
+     "side": "SE",
+     "along": 0.52,
+     "inset": 0
+    },
+    "w": 10,
+    "d": 10,
+    "eave": 5.5,
+    "roof": "pitched",
+    "rise": 3.5
+   },
+   {
+    "type": "body",
+    "at": {
+     "side": "SE",
+     "along": 0.7,
+     "inset": 0
+    },
+    "w": 7,
+    "d": 9,
+    "eave": 5.0,
+    "roof": "pitched",
+    "rise": 3.0
+   },
+   {
+    "type": "body",
+    "at": {
+     "side": "SE",
+     "along": 0.86,
+     "inset": 0
+    },
+    "w": 7,
+    "d": 9,
+    "eave": 5.0,
+    "roof": "pitched",
+    "rise": 3.0
+   },
+   {
+    "type": "tower",
+    "at": {
+     "side": "SE",
+     "along": 0.52,
+     "inset": 6
+    },
+    "w": 1.5,
+    "h": 9.0,
+    "cap": "pyramid",
+    "cap_h": 1.5
+   },
+   {
+    "type": "tower",
+    "at": {
+     "side": "SW",
+     "toward": "SE",
+     "offset": 0,
+     "inset": 0
+    },
+    "w": 4.5,
+    "h": 13.0,
+    "cap": "spire",
+    "cap_h": 4.0
+   }
+  ]
+ },
+ "B5-34": {
+  "summary": "1862 baths by T. Waring, Corporation-owned from the 1870s: a gabled two-storey front block lettered 'Turkish Baths' to Guildford Crescent, and behind it the long roofed pool halls (roofed 1884-96) running south beside the open Dock Feeder, with a tall boiler chimney. Front block eaves c.8.5 m and apex c.14 m, pool range eaves c.6 m and chimney c.22 m estimated from a 1920s photo (low confidence). The gable is taken to face the street (inferred; the source notes conflict)",
+  "sources": [
+   "Coflein 415047",
+   "Dic Mortimer, Cardiff's lost buildings 5 (1920s photo)",
+   "Wikipedia: Guildford Crescent Baths",
+   "research_batch3d.md (photo estimates)"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "side": "N",
+    "depth": 15,
+    "eave": 8.5,
+    "roof": "pitched",
+    "ridge": "short",
+    "rise": 5.5
+   },
+   {
+    "type": "body",
+    "side": "S",
+    "depth": 59,
+    "eave": 6.0,
+    "roof": "pitched",
+    "rise": 3.0
+   },
+   {
+    "type": "tower",
+    "at": {
+     "side": "E",
+     "along": 0.45,
+     "inset": 2
+    },
+    "w": 2.0,
+    "h": 22.0,
+    "cap": "flat"
+   }
+  ]
+ },
+ "B3-36": {
+  "summary": "As in 1947: the 1887 Bath stone front of the Grand Theatre (later the Hippodrome) to Westgate Street, 67 ft (c.20.4 m) high, with the war-ruined theatre behind being rebuilt as a warehouse that year. Height from the Western Mail (1887); the warehouse shell's height is not found and is modelled low at an inferred 8 m. The front survives as The Gatekeeper pub",
+  "sources": [
+   "Coflein 416773",
+   "Arthur Lloyd: Theatres and Halls in Cardiff (Western Mail 1887)",
+   "Cinema Treasures 20882",
+   "JD Wetherspoon: The Gatekeeper"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "side": "W",
+    "depth": 6,
+    "eave": 17.0,
+    "roof": "flat",
+    "parapet": 3.4
+   },
+   {
+    "type": "body",
+    "side": "E",
+    "depth": 22,
+    "eave": 8.0,
+    "roof": "flat"
+   }
+  ]
+ },
+ "A4-19": {
+  "summary": "Empire Theatre as rebuilt in 1915 (Milburn), a cinema by the 1930s: a four-tier Portland stone front with a recessed loggia, the auditorium behind and a flat-topped fly tower at the rear. Front cornice c.18 m and parapet c.20 m estimated from a 1915 photo; auditorium and fly-tower heights only relative, from the 1915 section. Which end faced Queen Street is not established (placed south, inferred), and a 1930s Art Deco refacing is possible but unconfirmed",
+  "sources": [
+   "Coflein 31780",
+   "Arthur Lloyd (Building News 1916)",
+   "Cinema Treasures 20804",
+   "research_batch3d.md (photo estimates)"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "side": "S",
+    "depth": 12,
+    "eave": 18.0,
+    "roof": "flat",
+    "parapet": 2.0
+   },
+   {
+    "type": "body",
+    "side": "S",
+    "inset": 12,
+    "depth": 30,
+    "eave": 16.0,
+    "roof": "pitched",
+    "rise": 2.0
+   },
+   {
+    "type": "body",
+    "side": "N",
+    "depth": 13,
+    "eave": 21.0,
+    "roof": "flat"
+   }
+  ]
+ },
+ "G3-10": {
+  "summary": "The 1895 Lion Foundry bandstand was probably gone by 1947: Parks & Gardens UK says it was removed in the Second World War, and a 2010 caption says the 1920s. The circle on the 1947 map is modelled as its platform only, c.0.7 m high (height from the 2000 replica; that the platform remained is inferred)",
+  "sources": [
+   "Coflein 412152",
+   "Parks & Gardens UK: Grange Gardens",
+   "Geograph 1972315",
+   "research_batch3b.md"
+  ],
+  "parts": [
+   {
+    "type": "ruin",
+    "h": 0.7
+   }
+  ]
+ },
+ "F4-01": {
+  "summary": "Red-brick munitions factory of c.1942 (Curran works' Hollowware Factory, later Curran Steels): a long two-storey range of two parallel pitched-roof bays on steel trusses (Turley Heritage Level 3 survey, 2023). Ridge c.12.4 m measured by the Welsh Government LiDAR flown in April 2022, before demolition; eaves c.9 m inferred from that and the two-storey walls. Demolished 2024-25 (prior approval 23/02591/PRNO)",
+  "sources": [
+   "Coflein 800280",
+   "HER 05939s",
+   "Turley Heritage 2023 (erc2023_017)",
+   "Welsh Government LiDAR 2022",
+   "Cardiff 23/02591/PRNO"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "rect": [
+     0,
+     1,
+     0,
+     0.5
+    ],
+    "eave": 9.0,
+    "roof": "pitched",
+    "rise": 3.4
+   },
+   {
+    "type": "body",
+    "rect": [
+     0,
+     1,
+     0.5,
+     1
+    ],
+    "eave": 9.0,
+    "roof": "pitched",
+    "rise": 3.4
+   }
+  ]
+ },
+ "A5-08": {
+  "summary": "In 1947 the Windsor Place Synagogue (1918-55), built in 1901 by Beddoe Rees as the Central Congregational Church: a stone Baroque front to Windsor Place (west) with a central pediment between two square end pavilions with balustrades, the body running back east. Pavilion parapets c.13.5 m and pediment apex c.15.5 m estimated from a 1957 photo with cars for scale; the body's eaves (c.11 m) and roof are inferred",
+  "sources": [
+   "Coflein 14284",
+   "JHASW / JCR-UK (synagogue history)",
+   "Glamorgan Archives 1957 sale photo (via jhasw-heritage.com)",
+   "research_batch4a.md"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "eave": 11.0,
+    "roof": "pitched",
+    "rise": 4.0
+   },
+   {
+    "type": "body",
+    "side": "W",
+    "depth": 6,
+    "eave": 13.5,
+    "roof": "flat",
+    "parapet": 0.8
+   },
+   {
+    "type": "body",
+    "at": {
+     "side": "W",
+     "along": 0.5,
+     "inset": 0
+    },
+    "w": 6,
+    "d": 8,
+    "eave": 13.5,
+    "roof": "pitched",
+    "ridge": "short",
+    "rise": 2.0
+   }
+  ]
+ },
+ "A4-12": {
+  "summary": "The Olympia Cinema's auditorium (c.2,000 seats on two levels) behind Andrews Buildings, whose Queen Street front survives and is listed (Cadw 21709); the auditorium was demolished after 1999. No heights or photographs of the auditorium found: eaves c.14 m and a low-pitched roof are inferred from its size, low confidence. The traced footprint may be smaller than the auditorium",
+  "sources": [
+   "Coflein 416777",
+   "Cinema Treasures 7970",
+   "research_batch4a.md"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "eave": 14.0,
+    "roof": "pitched",
+    "rise": 2.5
+   }
+  ]
+ },
+ "A5-10": {
+  "summary": "Park Hall (1884-85, Habershon & Fawckner), the large hall behind the Park Hotel, a cinema from 1935 (Sir Percy Thomas). Eaves c.16 m estimated from a 1909 interior photograph with standing people for scale (low confidence); pitched roof with a north-south ridge inferred. The site is now a car park; the hotel range with the former foyer survives (Cadw 13771)",
+  "sources": [
+   "Coflein 416778",
+   "Cinema Treasures",
+   "Commons: Adelina Patti at Park Hall, 1909 (NLW, public domain)",
+   "research_batch4a.md"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "eave": 16.0,
+    "roof": "pitched",
+    "rise": 5.0
+   }
+  ]
+ },
+ "A5-16": {
+  "summary": "Taff Vale Railway offices, Station Terrace: two storeys of brick with stone dressings in a plain Italianate style, two end pavilions with canted corners under hipped slate roofs and a central clock tower with cupola and weathervane. Eaves c.10 m, roofs c.13 m and cupola top c.17 m estimated from a 1950s Museum Wales photo with railings for scale (+/-3 m); the tower front is taken to face north (inferred). Demolished 1972",
+  "sources": [
+   "Coflein 413362",
+   "Museum Wales photo (1950s)",
+   "research_batch4a.md"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "eave": 10.0,
+    "roof": "hipped",
+    "rise": 3.0
+   },
+   {
+    "type": "tower",
+    "at": {
+     "side": "N",
+     "along": 0.5,
+     "inset": 0
+    },
+    "w": 4.0,
+    "h": 13.0,
+    "cap": "cupola",
+    "cap_h": 4.5
+   }
+  ]
+ },
+ "I4-01": {
+  "summary": "Royal Hamadryad Seamen's Hospital (E.W.M. Corbett, 1900-05): the ward block of three storeys over a semi-basement, with end pavilions under hipped roofs. Eaves c.13 m and pavilion roofs c.15 m estimated from photographs of c.1905 and 2007 with doors for scale (+/-20%). The front (administration) range survives in the Hamadryad Centre; the wards were demolished after 2007",
+  "sources": [
+   "Coflein 307714, 423283",
+   "HER 05063s",
+   "Commons: Seamen's Hospital, Cardiff (c.1905, public domain)",
+   "Commons: Hamadryad Hospital (2007, CC BY 2.0)",
+   "research_batch4b.md"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "eave": 13.0,
+    "roof": "hipped",
+    "rise": 2.5
+   }
+  ]
+ },
+ "C7-06": {
+  "summary": "St Paul's Roman Catholic Church (C. C. Jones, 1891-93): nave and aisles under one roof, reported in 1891 as 104 x 51 ft (c.31.7 x 15.5 m), set here against Tyndall Street (south, inferred); the rest of the traced footprint is taken to be the attached school and presbytery. No exterior photograph found: eaves c.8.5 m and ridge c.15.5 m are inferred placeholders. Demolished c.1970",
+  "sources": [
+   "Coflein 14220",
+   "South Wales Daily News, 1 July 1891; Cardiff Times, 4 July 1891",
+   "research_batch4b.md"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "at": {
+     "side": "S",
+     "along": 0.5,
+     "inset": 0
+    },
+    "w": 31.7,
+    "d": 15.5,
+    "eave": 8.5,
+    "roof": "pitched",
+    "rise": 7.0
+   },
+   {
+    "type": "body",
+    "side": "N",
+    "depth": 5.5,
+    "eave": 7.0,
+    "roof": "pitched",
+    "rise": 2.0
+   }
+  ]
+ },
+ "C7-18": {
+  "summary": "Cardiff and Channel Mills store, Bute East Dock (c.1892-96): nine storeys, the lower six of rubble stone and the top three of black brick, a gabled slate roof behind parapets and central columns of loading doors on the east and west sides. Height c.30 m from the storey count (a 1979 photo roughly agrees but is unconfirmed). Demolished c.2000",
+  "sources": [
+   "Coflein 34243, 34255",
+   "HER 08025s",
+   "research_batch4b.md"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "eave": 29.0,
+    "roof": "pitched",
+    "rise": 3.0,
+    "parapet": 1.0
+   }
+  ]
+ },
+ "D4-13": {
+  "summary": "Williams warehouse, West Canal Wharf: a single-storey, twelve-bay rubble range with a king-post roof and red-brick arched openings to the canal on the east (recorded by RCAHMW in 1977). Heights not found: eaves c.4.5 m and ridge c.7.5 m are inferred placeholders",
+  "sources": [
+   "Coflein 85377",
+   "HER 00895s",
+   "research_batch4b.md"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "eave": 4.5,
+    "roof": "pitched",
+    "rise": 3.0
+   }
+  ]
+ },
+ "C4-57": {
+  "summary": "York Hotel (1890): three storeys and a basement in red brick under a pitched slate roof with two stacks, its front of six ogee-headed ground-floor openings to East Canal Wharf (west, inferred) and the Custom House adjoining to the north. Eaves c.11 m and ridge c.14.5 m inferred from the storey count and photographs of 2010-16 (+/-1.5 m). Demolished 2017-18",
+  "sources": [
+   "Coflein 415001",
+   "HER 08156s",
+   "Geograph 1878523, 3631921, 4132044, 5175353 (CC BY-SA 2.0)",
+   "research_batch4d.md"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "eave": 11.0,
+    "roof": "pitched",
+    "rise": 3.5
+   }
+  ]
+ },
+ "B3-48": {
+  "summary": "Central Fire Station, Westgate Street (E. Vincent Harris, c.1913-17): six storeys of neo-Georgian with lofty engine bays and about thirty firemen's flats, a steep tiled roof crowned by a look-out tower. Eaves c.19 m, ridge c.25 m and tower top c.31 m inferred from the storey count (low confidence); which street the long side fronted is unresolved. Demolished 1973; the site is now a car park",
+  "sources": [
+   "Coflein 544561",
+   "research_batch4d.md"
+  ],
+  "parts": [
+   {
+    "type": "body",
+    "eave": 19.0,
+    "roof": "hipped",
+    "rise": 6.0
+   },
+   {
+    "type": "tower",
+    "at": {
+     "side": "N",
+     "along": 0.5,
+     "inset": 7
+    },
+    "w": 4.0,
+    "h": 26.0,
+    "cap": "pyramid",
+    "cap_h": 5.0
+   }
+  ]
+ }
+}
